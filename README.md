@@ -2,6 +2,8 @@
 
 ### Build a Scatterplot Graph with D3
 
+Try it on Codepen: https://codepen.io/Romugar/pen/wEZBXb
+
 #### Objective
 
 Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/bgpXyK.
