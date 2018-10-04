@@ -24,5 +24,6 @@ Build a CodePen.io app that is functionally similar to this: https://codepen.io/
 14. User Story: I can mouse over an area and see a tooltip with a corresponding id="tooltip" which displays more information about the area.
 15. User Story: My tooltip should have a data-year property that corresponds to the data-xvalue of the active area.
 
-* Here is the dataset you will need to complete this project: https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json
-* You can build your project by forking this CodePen pen. Or you can use this CDN link to run the tests in any environment you like: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
+#### Here is the dataset you will need to complete this project:
+* https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json
+
