@@ -1,4 +1,4 @@
-# Data Visualization Projects: Visualize Data with a Scatterplot Graph
+# Data Visualization Projects: Visualize Data with a Scatterplot Graph for freecodecamp.org
 
 ### Build a Scatterplot Graph with D3
 
